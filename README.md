@@ -1,4 +1,4 @@
-<img src="assets/banner-v2.png" alt="Soraya Charkas — teaching robots to see" width="100%">
+<img src="assets/banner-v3.png" alt="Soraya Charkas: computer vision, robotics, signal processing" width="100%">
 
 I work on the part of robotics where sensor data turns into decisions: cameras, load cells, physiological signals. EE background ([Sharif University of Technology](https://www.sharif.edu/) BSc, [UTwente](https://www.utwente.nl/) MSc in Computer Vision), currently interning at **Lely**.
 
