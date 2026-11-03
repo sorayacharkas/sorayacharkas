@@ -1,20 +1,18 @@
 <img src="assets/banner-v3.png" alt="Soraya Charkas: computer vision, robotics, signal processing" width="100%">
 
-I work on the part of robotics where sensor data turns into decisions: cameras, load cells, physiological signals. EE background ([Sharif University of Technology](https://www.sharif.edu/) BSc, [UTwente](https://www.utwente.nl/) MSc in Computer Vision), currently interning at **Lely**.
+I work where robotics meets computer vision. BSc Electrical Engineering at [Sharif University of Technology](https://www.sharif.edu/), MSc Electrical Engineering (Computer Vision) at the [University of Twente](https://www.utwente.nl/), now at **Lely**.
 
-#### Some things I've worked on
+#### Selected work
 
-| | |
-|---|---|
-| **Lely** | Wall-touch detection from load-cell data for an autonomous barn robot's localization. Fewer false positives *and* negatives; now being ported to C++ for tests on the real robot. |
-| **VicarVision** | Benchmarked 28 rPPG methods on 4 datasets. Cut face-tracking error up to 5×, then fine-tuned a model for 3× accuracy across skin tones. |
-| **RDW Self-Driving Challenge** | Object-recognition pipeline for a self-driving car, validated sim-to-real. |
-| **Sharif** | EEG channel selection: SVM accuracy 79% → 87%, contributed to an IEEE paper. |
+- **Lely**: contact detection for a barn robot's localization, from Python to C++
+- **VicarVision**: benchmarked 28 rPPG methods, cut face-tracking error up to 5×
+- **RDW Self-Driving Challenge**: object recognition for a self-driving car, sim to real
+- **Sharif University of Technology**: EEG channel selection, accuracy 79% → 87% (IEEE paper)
 
 #### Tools
 
 <img src="https://skillicons.dev/icons?i=py,cpp,pytorch,opencv,sklearn,ros,matlab,git,latex" alt="Python, C++, PyTorch, OpenCV, scikit-learn, ROS, MATLAB, Git, LaTeX">
 
-Currently getting much better at modern C++, ROS 2 and simulation. Progress lives in [robotics-learning](https://github.com/SorayaCharkas/robotics-learning).
+Learning now: modern C++, ROS 2, simulation → [robotics-learning](https://github.com/SorayaCharkas/robotics-learning)
 
 [LinkedIn](https://linkedin.com/in/Soraya-Charkas)
