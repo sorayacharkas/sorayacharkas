@@ -15,4 +15,4 @@ I work where robotics meets computer vision. BSc Electrical Engineering at [Shar
 
 Learning now: modern C++, ROS 2, simulation → [robotics-learning](https://github.com/SorayaCharkas/robotics-learning)
 
-[LinkedIn](https://linkedin.com/in/Soraya-Charkas)
+[LinkedIn](https://www.linkedin.com/in/soraya-charkas-849013216/)
